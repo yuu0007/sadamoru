@@ -4,6 +4,7 @@
 
 ### About
 Sadamoru is a discord bot that wants to fulfill your discord needs!
+
 [Invite Sadamoru to your Discord Server!](https://discord.com/api/oauth2/authorize?client_id=748044340823326831&permissions=8&scope=bot)
 
 ### Setup
