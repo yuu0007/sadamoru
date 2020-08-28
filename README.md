@@ -6,7 +6,7 @@
 Sadamoru is a discord bot that wants to fulfill your discord needs!
 
 ### Setup
-First, run `git clone https://github.com/yuu0007/sadamoru.git`
+First, run `git clone https://github.com/yuu0007/sadamoru.git` in your terminal to clone the repository.
 
 Next, run `npm i` on your terminal to install the bot dependencies.
 
