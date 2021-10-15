@@ -9,7 +9,7 @@
   "author": "Yuu#0007",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^7.7.0",
+    "eslint": "^8.0.1",
     "eslint-config-tesseract": "0.0.3"
   },
   "dependencies": {
